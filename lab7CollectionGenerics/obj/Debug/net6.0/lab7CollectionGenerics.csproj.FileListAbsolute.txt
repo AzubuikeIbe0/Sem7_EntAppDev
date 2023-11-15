@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\bin\Debug\net6.0\lab7CollectionGenerics.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\bin\Debug\net6.0\lab7CollectionGenerics.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\bin\Debug\net6.0\lab7CollectionGenerics.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\bin\Debug\net6.0\lab7CollectionGenerics.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\bin\Debug\net6.0\lab7CollectionGenerics.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\refint\lab7CollectionGenerics.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\lab7CollectionGenerics.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab7CollectionGenerics\obj\Debug\net6.0\ref\lab7CollectionGenerics.dll
