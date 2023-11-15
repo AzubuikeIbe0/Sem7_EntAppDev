@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\bin\Debug\net6.0\lab4ExceptionIndexers.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\bin\Debug\net6.0\lab4ExceptionIndexers.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\bin\Debug\net6.0\lab4ExceptionIndexers.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\bin\Debug\net6.0\lab4ExceptionIndexers.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\bin\Debug\net6.0\lab4ExceptionIndexers.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\refint\lab4ExceptionIndexers.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\lab4ExceptionIndexers.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\lab4ExceptionIndexers\obj\Debug\net6.0\ref\lab4ExceptionIndexers.dll

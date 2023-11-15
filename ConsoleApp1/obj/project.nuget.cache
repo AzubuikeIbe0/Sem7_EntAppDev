@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUWd606fT4yVd+PfYVsKpJMVBFBYxYmT1/LbomCQTO97HyEzjG1vUOjf3QRebjfwia2pC8pOjWcqcvPs5abACA==",
+  "success": true,
+  "projectFilePath": "A:\\TU DUBLIN\\Yr4\\ENTAPPDEV\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seatb\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

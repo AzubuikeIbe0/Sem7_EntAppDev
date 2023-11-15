@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\bin\Debug\net6.0\Linq.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\bin\Debug\net6.0\Linq.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\bin\Debug\net6.0\Linq.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\bin\Debug\net6.0\Linq.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\bin\Debug\net6.0\Linq.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\refint\Linq.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\Linq.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Linq\obj\Debug\net6.0\ref\Linq.dll

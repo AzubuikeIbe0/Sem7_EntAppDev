@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\bin\Debug\net6.0\TuplesAndRecords.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\bin\Debug\net6.0\TuplesAndRecords.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\bin\Debug\net6.0\TuplesAndRecords.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\bin\Debug\net6.0\TuplesAndRecords.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\bin\Debug\net6.0\TuplesAndRecords.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\refint\TuplesAndRecords.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\TuplesAndRecords.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\TuplesAndRecords\obj\Debug\net6.0\ref\TuplesAndRecords.dll

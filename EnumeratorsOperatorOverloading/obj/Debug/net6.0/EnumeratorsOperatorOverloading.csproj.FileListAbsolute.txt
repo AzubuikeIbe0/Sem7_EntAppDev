@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\bin\Debug\net6.0\EnumeratorsOperatorOverloading.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\bin\Debug\net6.0\EnumeratorsOperatorOverloading.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\bin\Debug\net6.0\EnumeratorsOperatorOverloading.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\bin\Debug\net6.0\EnumeratorsOperatorOverloading.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\bin\Debug\net6.0\EnumeratorsOperatorOverloading.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\refint\EnumeratorsOperatorOverloading.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\EnumeratorsOperatorOverloading.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\EnumeratorsOperatorOverloading\obj\Debug\net6.0\ref\EnumeratorsOperatorOverloading.dll

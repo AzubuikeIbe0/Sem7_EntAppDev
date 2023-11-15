@@ -1,0 +1,5 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\UnitTest2\obj\Debug\net6.0\UnitTest2.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\UnitTest2\obj\Debug\net6.0\UnitTest2.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\UnitTest2\obj\Debug\net6.0\UnitTest2.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\UnitTest2\obj\Debug\net6.0\UnitTest2.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\UnitTest2\obj\Debug\net6.0\UnitTest2.csproj.CoreCompileInputs.cache

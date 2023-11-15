@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\bin\Debug\net6.0\Abstract_classes_lab1.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\bin\Debug\net6.0\Abstract_classes_lab1.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\bin\Debug\net6.0\Abstract_classes_lab1.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\bin\Debug\net6.0\Abstract_classes_lab1.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\bin\Debug\net6.0\Abstract_classes_lab1.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\refint\Abstract_classes_lab1.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\Abstract_classes_lab1.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Abstract_classes_lab1\obj\Debug\net6.0\ref\Abstract_classes_lab1.dll

@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\bin\Debug\net6.0\CollectionsGenerics.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\bin\Debug\net6.0\CollectionsGenerics.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\bin\Debug\net6.0\CollectionsGenerics.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\bin\Debug\net6.0\CollectionsGenerics.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\bin\Debug\net6.0\CollectionsGenerics.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\refint\CollectionsGenerics.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\CollectionsGenerics.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\CollectionsGenerics\obj\Debug\net6.0\ref\CollectionsGenerics.dll

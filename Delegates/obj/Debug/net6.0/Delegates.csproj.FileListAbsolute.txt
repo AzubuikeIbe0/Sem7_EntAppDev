@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\bin\Debug\net6.0\Delegates.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\bin\Debug\net6.0\Delegates.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\bin\Debug\net6.0\Delegates.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\bin\Debug\net6.0\Delegates.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Delegates\obj\Debug\net6.0\ref\Delegates.dll

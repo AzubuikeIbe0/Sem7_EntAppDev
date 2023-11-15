@@ -1,0 +1,15 @@
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\bin\Debug\net6.0\Lab5EnumsStructs.exe
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\bin\Debug\net6.0\Lab5EnumsStructs.deps.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\bin\Debug\net6.0\Lab5EnumsStructs.runtimeconfig.json
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\bin\Debug\net6.0\Lab5EnumsStructs.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\bin\Debug\net6.0\Lab5EnumsStructs.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.csproj.AssemblyReference.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.GeneratedMSBuildEditorConfig.editorconfig
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.AssemblyInfoInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.AssemblyInfo.cs
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.csproj.CoreCompileInputs.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\refint\Lab5EnumsStructs.dll
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.pdb
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\Lab5EnumsStructs.genruntimeconfig.cache
+A:\TU DUBLIN\Yr4\ENTAPPDEV\Lab5EnumsStructs\obj\Debug\net6.0\ref\Lab5EnumsStructs.dll
